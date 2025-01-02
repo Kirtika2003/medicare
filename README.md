@@ -5,7 +5,7 @@ Medicare simplifies the process of scheduling medical consultations through a we
 ## Live Demo
 
 - **Frontend**: [https://medicare-frontend-eyd6.onrender.com](https://medicare-frontend-eyd6.onrender.com)
-- **Admin Panel**: [https://medicare-admin-p1rr.onrender.com](https://medicare-admin-p1rr.onrender.com)
+- **Admin/Doctor Panel**: [https://medicare-admin-p1rr.onrender.com](https://medicare-admin-p1rr.onrender.com)
 - **Backend**: [https://medicare-backend-5kin.onrender.com](https://medicare-backend-5kin.onrender.com)
 
 
